@@ -1,7 +1,7 @@
 name: audio_service_example
 description: Demonstrates how to use the audio_service plugin.
 publish_to: 'none'
-
+version: 1.0.26+10026
 environment:
   sdk: ">=2.7.0 <3.0.0"
 
